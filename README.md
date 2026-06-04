@@ -13,10 +13,7 @@ A responsive web application for tracking daily expenses and managing personal f
 - HTML
 - CSS
 - JavaScript
-
-## Screenshots
-(Add screenshots here)
-
+- 
 ## Installation
 1. Clone the repository
 2. Open index.html in browser
